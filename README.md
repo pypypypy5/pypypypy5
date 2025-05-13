@@ -1,6 +1,6 @@
 # 👨‍💻 신효재 | Hyojae Shin
 
-서울대학교 산업공학 24학번
+서울대학교 산업공학 24학번.  
 **문제를 정의하고, 구조화하며, 기술로 해결하는 데 집중합니다.**  
 주요 관심 분야는 **백엔드 시스템 설계, AI 기반 정보 처리, 데이터 파이프라인**입니다.
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 📁 주요 프로젝트
+## 📁 프로젝트
 
 - **SendCode**:  
   코드 스니펫 공유 서비스. 
@@ -42,11 +42,10 @@
 
 - **ssalmeok**:  
   크론 기반 자동 크롤링 + Supabase 저장 → PostgREST API로 조회  
-  → Python + GitHub Actions로 완전 자동화 구성
-
-- **etc..**:
+  개...**:  
   이외 프로젝트는 비공개
   → 궁금하신 분들은 개인적으로 연락주세요
+
 
 ---
 
@@ -68,9 +67,8 @@
 
 ## 📫 Contact
 
-- GitHub: [github.com/hyojae-shin](https://github.com/pypypypy5)
 - Email: hj.shin@snu.ac.kr
-- SNS: [https://www.linkedin.com/in/hyo-jae-shin-71860a2a3/]
+- SNS: [linkedin](https://www.linkedin.com/in/hyo-jae-shin-71860a2a3/)
 
 ---
 
