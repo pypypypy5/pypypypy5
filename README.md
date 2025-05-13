@@ -1,76 +1,77 @@
-# 👋 안녕하세요, 신효재입니다!
+# 👨‍💻 신효재 | Hyojae Shin
 
-서울대학교에서 **산업공학, 컴퓨터공학, 컴퓨터과학**을 전공하며, 기술과 사람, 그리고 시스템 간의 연결에 관심을 갖고 공부하고 있습니다.
-
-## 🧠 About Me
-
-- 📍 대한민국 서울 거주
-- 📚 다양한 학문적 배경을 바탕으로 **데이터 분석**, **웹 개발**, **서비스 기획**에 두루 경험
-- 🔬 실험적인 프로젝트를 즐기며, **기술을 통해 새로운 사용자 경험을 창출**하는 데 관심이 많습니다
-- 💬 “이거 진짜 필요했던 거야”라는 말을 듣는 순간을 위해 일합니다
-
-## 🚀 활동 이력
-
-### 🎓 학업 & 학회
-- 서울대학교 산업공학·컴퓨터공학·컴퓨터과학 전공
-- 📘 ‘AI 입문’, ‘화학반응공학’, ‘공정유체역학’ 등 이론과 실습을 아우르는 수업 수강
-- 🧑‍🏫 연구 중심의 문제 해결과 **깊이 있는 통계·수학적 사고** 강조
-
-### 🧩 프로젝트 & 개발
-- 📌 **모아스누**: 개인화된 대외활동 큐레이션 웹서비스 프로젝트  
-  → PO/기획/디자인/프론트엔드까지 전방위적 기여
-- 🎮 **도굴**: TRPG 게임 개발 프로젝트 (기획)
-- 📦 **ssalmeok**: Supabase 기반 데이터 크롤링 & 저장 자동화 시스템 구축
-- 🛠 FastAPI, React, Supabase, Langchain 등 다양한 스택 경험
-
-### 💡 클럽 & 커뮤니티
-- **SCSC**: PS 알고리즘, B2B SaaS 리서치
-- **SNUGDC**: 게임 개발, 기획 스터디
-- **SNUDS**: 디자인 사고 및 프로토타이핑 스터디
-- **괴나리**: 만남과 아이디어의 실험적인 교차점
-
-## ✨ 관심사
-
-- 📈 **서비스 기획**: 구조화된 문제 해결, 사용자 니즈 발굴
-- 🧬 **AI/LLM 활용 서비스**: LangGraph, Langchain, Prompt Engineering
-- 📊 **데이터 기반 의사결정**: SQLAlchemy, Python 분석 도구 활용
-- 🧩 **인문+기술 융합**: 영화, 음악, 철학에서 영감을 받아 기능을 설계
-
-## 🛠 사용 기술
-
-| 분야 | 기술 |
-|------|------|
-| 언어 | Python, TypeScript, JavaScript |
-| 웹 프레임워크 | FastAPI, React, Next.js |
-| 데이터 | PostgreSQL, Supabase, SQLAlchemy |
-| AI & LLM | OpenAI API, Langchain, Google Generative AI |
-| 배포 | Vercel, GitHub Actions |
-| 도구 | Git, WSL, VSCode, Notion, Figma |
-
-## 📎 현재 진행 중
-
-- **회고록 생성 서비스**: 사진 + 메타데이터를 활용한 자동 회고록 생성 시스템  
-- **일정 조율 서비스**: 유저별 시간 데이터 기반 자동 조율 및 캘린더 제공
-- **딥리서치 자동화 프롬프트 설계**: GPT 기반 투자 보고서 자동화 프로젝트
-
-## 🎧 좋아하는 것들
-
-- 🧑‍🎤 음악: Ride, Radiohead, 실리카겔, Asian Kung-Fu Generation
-- 🎬 철학이 담긴 영화: 오펜하이머 – "사적 행동의 공적 책임"에 대한 고찰
-- 📚 단어 취향: ‘서성이다’, ‘기웃거리다’ — 움직이는 존재의 시적 감각
-
-## 🤝 Contact
-
-- 📨 이메일: [your-email@example.com]
-- 🐦 트위터/블로그: [블로그 주소 or Tistory]
-- 🌐 포트폴리오: [별도 포트폴리오 사이트 링크 가능]
+서울대학교 산업공학 전공.  
+**문제를 정의하고, 구조화하며, 기술로 해결하는 데 집중합니다.**  
+주요 관심 분야는 **백엔드 시스템 설계, AI 기반 정보 처리, 데이터 파이프라인**입니다.
 
 ---
 
-"**기술을 넘어서, 진심이 닿는 서비스를.**"
+## 🛠 Tech Stack & Tools
 
+| 분야        | 기술 스택 |
+|-------------|-----------|
+| 언어        | Python, TypeScript, JavaScript |
+| 웹          | FastAPI, React, Vite, Next.js |
+| DB & Infra  | PostgreSQL, Supabase, GitHub Actions, Vercel |
+| AI/LLM      | OpenAI API, LangChain |
+| 기타        | BeautifulSoup, requests, WSL, VSCode, Figma |
 
-<!---
-pypypypy5/pypypypy5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🔧 Technical Interests
+
+- **LLM 기반 자동화**: LangChain + OpenAI 기반 입력 해석 및 문서 생성 파이프라인 구현  
+- **데이터 크롤링·정제**: BeautifulSoup, requests, cron 기반 자동 수집 시스템 구축  
+- **시간 데이터 처리**: 유저별 시간 슬롯 정보 저장 및 Supabase에서의 최적 쿼리 구성  
+- **이미지 처리**: BLIP 기반 이미지 캡셔닝 및 메타데이터 추출 자동화  
+- **CI/CD & 환경 구성**: GitHub Actions, `.env` 관리, 자동 스케줄링, Poetry 기반 의존성 관리
+
+---
+
+## 📁 주요 프로젝트
+
+- **SendCode**:  
+  코드 스니펫 공유 서비스. 
+  기존 솔루션의 최대 문제가 의사결정자에게 직접 돌아오는 이익이 없다는 것이라 판단, extension을 통해 스니펫을 보내는 쪽이 효용을 얻을 수 있도록 했음.
+  FastAPI, vanilla
+  → PO · 백, 프런트, vsc extension 구현
+  
+- **모아스누**:  
+  Supabase + React 기반 대외활동 정보 큐레이션 서비스  
+  → PO · 디자인 · 프론트엔드 구현
+
+- **ssalmeok**:  
+  크론 기반 자동 크롤링 + Supabase 저장 → PostgREST API로 조회  
+  → Python + GitHub Actions로 완전 자동화 구성
+
+- **etc..**
+  이외 프로젝트는 비공개
+  궁금하신 분들은 개인적으로 연락주세요
+
+---
+
+## 📌 활동 요약
+
+- **SCSC** (Computer Club): PS 알고리즘, SaaS 리서치
+- **SNUGDC** (Game Club): 게임 기획 및 플레이 테스트
+- **SNUDS** (디자인 소사이어티): 사용자 흐름 설계 및 UI 실험
+- **기타**: WSL + VSC 기반 Python 환경 구축, FastAPI + DB 구조 설계
+
+---
+
+## 📈 Focused Keywords
+
+`#Python` `#FastAPI` `#LangChain` `#Supabase` `#React`  
+`#DataPipeline` `#LLM` `#WebAutomation` `#GitHubActions` `#ServiceDesign`
+
+---
+
+## 📫 Contact
+
+- GitHub: [github.com/hyojae-shin](https://github.com/hyojae-shin)
+- Email: your-email@example.com
+- Blog: [Tistory or 개인 블로그 주소]
+
+---
+
+> "코드는 문제 해결을 위한 수단입니다. 정확하고, 견고하게, 사용자 중심으로 설계합니다."
