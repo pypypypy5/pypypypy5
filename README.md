@@ -14,7 +14,7 @@
 | 웹          | FastAPI, Next.js, React, Vite |
 | DB & Infra  | PostgreSQL, Supabase, GitHub Actions, Vercel |
 | AI/LLM      | OpenAI API, LangChain |
-| 기타        | BeautifulSoup, requests, WSL, VSCode, Figma |
+| 기타        | BeautifulSoup 등 |
 
 ---
 
@@ -42,7 +42,9 @@
 
 - **ssalmeok**:  
   크론 기반 자동 크롤링 + Supabase 저장 → PostgREST API로 조회  
-  개...**:  
+  → Python + GitHub Actions로 완전 자동화 구성
+
+- **비공개**:  
   이외 프로젝트는 비공개
   → 궁금하신 분들은 개인적으로 연락주세요
 
@@ -51,9 +53,9 @@
 
 ## 📌 활동 요약
 
-- **SCSC** (Computer Club): PS 알고리즘, SaaS 리서치
+- **SCSC** (Computer Club): 인원으로 활동하며 solprenuer 모임, SaaS 리서치 등 진행
 - **SNUGDC** (Game Club): 게임 기획 및 플레이 테스트
-- **SNUDS** (디자인 동아리): 사용자 흐름 설계 및 UI 실험
+- **SNUDS** (디자인 동아리): 문제의 본질을 정의하고, 맥락 속에서 해결 방향을 탐색하는 디자인적 사고 훈련
 - **기타**: WSL + VSC 기반 Python 환경 구축, FastAPI + DB 구조 설계
 
 ---
