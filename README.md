@@ -1,6 +1,6 @@
 # 👨‍💻 신효재 | Hyojae Shin
 
-서울대학교 산업공학 전공.  
+서울대학교 산업공학 24학번
 **문제를 정의하고, 구조화하며, 기술로 해결하는 데 집중합니다.**  
 주요 관심 분야는 **백엔드 시스템 설계, AI 기반 정보 처리, 데이터 파이프라인**입니다.
 
@@ -11,7 +11,7 @@
 | 분야        | 기술 스택 |
 |-------------|-----------|
 | 주 사용 언어| Python, TypeScript, JavaScript |
-| 웹          | FastAPI, React, Vite, Next.js |
+| 웹          | FastAPI, Next.js, React, Vite |
 | DB & Infra  | PostgreSQL, Supabase, GitHub Actions, Vercel |
 | AI/LLM      | OpenAI API, LangChain |
 | 기타        | BeautifulSoup, requests, WSL, VSCode, Figma |
@@ -24,7 +24,7 @@
 - **데이터 크롤링·정제**: BeautifulSoup, requests, cron 기반 자동 수집 시스템 구축  
 - **시간 데이터 처리**: 유저별 시간 슬롯 정보 저장 및 Supabase에서의 최적 쿼리 구성  
 - **이미지 처리**: BLIP 기반 이미지 캡셔닝 및 메타데이터 추출 자동화  
-- **CI/CD & 환경 구성**: GitHub Actions, `.env` 관리, 자동 스케줄링, Poetry 기반 의존성 관리
+- **CI/CD & 환경 구성**: GitHub Actions, 자동 스케줄링
 
 ---
 
@@ -54,7 +54,7 @@
 
 - **SCSC** (Computer Club): PS 알고리즘, SaaS 리서치
 - **SNUGDC** (Game Club): 게임 기획 및 플레이 테스트
-- **SNUDS** (디자인 소사이어티): 사용자 흐름 설계 및 UI 실험
+- **SNUDS** (디자인 동아리): 사용자 흐름 설계 및 UI 실험
 - **기타**: WSL + VSC 기반 Python 환경 구축, FastAPI + DB 구조 설계
 
 ---
@@ -68,9 +68,9 @@
 
 ## 📫 Contact
 
-- GitHub: [github.com/hyojae-shin](https://github.com/hyojae-shin)
-- Email: your-email@example.com
-- Blog: [Tistory or 개인 블로그 주소]
+- GitHub: [github.com/hyojae-shin](https://github.com/pypypypy5)
+- Email: hj.shin@snu.ac.kr
+- SNS: [https://www.linkedin.com/in/hyo-jae-shin-71860a2a3/]
 
 ---
 
