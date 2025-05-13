@@ -10,7 +10,7 @@
 
 | 분야        | 기술 스택 |
 |-------------|-----------|
-| 언어        | Python, TypeScript, JavaScript |
+| 주 사용 언어| Python, TypeScript, JavaScript |
 | 웹          | FastAPI, React, Vite, Next.js |
 | DB & Infra  | PostgreSQL, Supabase, GitHub Actions, Vercel |
 | AI/LLM      | OpenAI API, LangChain |
@@ -44,9 +44,9 @@
   크론 기반 자동 크롤링 + Supabase 저장 → PostgREST API로 조회  
   → Python + GitHub Actions로 완전 자동화 구성
 
-- **etc..**
+- **etc..**:
   이외 프로젝트는 비공개
-  궁금하신 분들은 개인적으로 연락주세요
+  → 궁금하신 분들은 개인적으로 연락주세요
 
 ---
 
