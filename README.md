@@ -1,3 +1,3 @@
-# 👨‍💻 신효재 | Hyojae Shin
+# Hyojae Shin
 
-it 자영업자.
+self-employed coder
